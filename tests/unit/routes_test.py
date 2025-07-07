@@ -1,3 +1,9 @@
+
+def login_test(client):
+    res = client.post("/login", json={"email": "admin@site.com", "senha": "1234"})
+    assert res.status_code == 200
+    assert "token" in res.get_json()
+
 def test_hello(client):
     response = client.get('/hello')
     assert response.status_code == 200
