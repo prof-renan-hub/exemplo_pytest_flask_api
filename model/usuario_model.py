@@ -8,9 +8,3 @@ class Usuario(db.Model):
     email = db.Column(db.String(80), nullable=False)
 
 
-
-
-
-
-
-

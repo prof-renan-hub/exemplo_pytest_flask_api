@@ -4,3 +4,5 @@ htmlcov
 .idea
 
 calculos/__pycache__/
+
+*.pyc
