@@ -1,0 +1,252 @@
+[
+  {
+    "id": 1,
+    "nome": "Produto 1",
+    "preco": 5.75
+  },
+  {
+    "id": 2,
+    "nome": "Produto 2",
+    "preco": 6.5
+  },
+  {
+    "id": 3,
+    "nome": "Produto 3",
+    "preco": 7.25
+  },
+  {
+    "id": 4,
+    "nome": "Produto 4",
+    "preco": 8.0
+  },
+  {
+    "id": 5,
+    "nome": "Produto 5",
+    "preco": 8.75
+  },
+  {
+    "id": 6,
+    "nome": "Produto 6",
+    "preco": 9.5
+  },
+  {
+    "id": 7,
+    "nome": "Produto 7",
+    "preco": 10.25
+  },
+  {
+    "id": 8,
+    "nome": "Produto 8",
+    "preco": 11.0
+  },
+  {
+    "id": 9,
+    "nome": "Produto 9",
+    "preco": 11.75
+  },
+  {
+    "id": 10,
+    "nome": "Produto 10",
+    "preco": 12.5
+  },
+  {
+    "id": 11,
+    "nome": "Produto 11",
+    "preco": 13.25
+  },
+  {
+    "id": 12,
+    "nome": "Produto 12",
+    "preco": 14.0
+  },
+  {
+    "id": 13,
+    "nome": "Produto 13",
+    "preco": 14.75
+  },
+  {
+    "id": 14,
+    "nome": "Produto 14",
+    "preco": 15.5
+  },
+  {
+    "id": 15,
+    "nome": "Produto 15",
+    "preco": 16.25
+  },
+  {
+    "id": 16,
+    "nome": "Produto 16",
+    "preco": 17.0
+  },
+  {
+    "id": 17,
+    "nome": "Produto 17",
+    "preco": 17.75
+  },
+  {
+    "id": 18,
+    "nome": "Produto 18",
+    "preco": 18.5
+  },
+  {
+    "id": 19,
+    "nome": "Produto 19",
+    "preco": 19.25
+  },
+  {
+    "id": 20,
+    "nome": "Produto 20",
+    "preco": 20.0
+  },
+  {
+    "id": 21,
+    "nome": "Produto 21",
+    "preco": 20.75
+  },
+  {
+    "id": 22,
+    "nome": "Produto 22",
+    "preco": 21.5
+  },
+  {
+    "id": 23,
+    "nome": "Produto 23",
+    "preco": 22.25
+  },
+  {
+    "id": 24,
+    "nome": "Produto 24",
+    "preco": 23.0
+  },
+  {
+    "id": 25,
+    "nome": "Produto 25",
+    "preco": 23.75
+  },
+  {
+    "id": 26,
+    "nome": "Produto 26",
+    "preco": 24.5
+  },
+  {
+    "id": 27,
+    "nome": "Produto 27",
+    "preco": 25.25
+  },
+  {
+    "id": 28,
+    "nome": "Produto 28",
+    "preco": 26.0
+  },
+  {
+    "id": 29,
+    "nome": "Produto 29",
+    "preco": 26.75
+  },
+  {
+    "id": 30,
+    "nome": "Produto 30",
+    "preco": 27.5
+  },
+  {
+    "id": 31,
+    "nome": "Produto 31",
+    "preco": 28.25
+  },
+  {
+    "id": 32,
+    "nome": "Produto 32",
+    "preco": 29.0
+  },
+  {
+    "id": 33,
+    "nome": "Produto 33",
+    "preco": 29.75
+  },
+  {
+    "id": 34,
+    "nome": "Produto 34",
+    "preco": 30.5
+  },
+  {
+    "id": 35,
+    "nome": "Produto 35",
+    "preco": 31.25
+  },
+  {
+    "id": 36,
+    "nome": "Produto 36",
+    "preco": 32.0
+  },
+  {
+    "id": 37,
+    "nome": "Produto 37",
+    "preco": 32.75
+  },
+  {
+    "id": 38,
+    "nome": "Produto 38",
+    "preco": 33.5
+  },
+  {
+    "id": 39,
+    "nome": "Produto 39",
+    "preco": 34.25
+  },
+  {
+    "id": 40,
+    "nome": "Produto 40",
+    "preco": 5.0
+  },
+  {
+    "id": 41,
+    "nome": "Produto 41",
+    "preco": 5.75
+  },
+  {
+    "id": 42,
+    "nome": "Produto 42",
+    "preco": 6.5
+  },
+  {
+    "id": 43,
+    "nome": "Produto 43",
+    "preco": 7.25
+  },
+  {
+    "id": 44,
+    "nome": "Produto 44",
+    "preco": 8.0
+  },
+  {
+    "id": 45,
+    "nome": "Produto 45",
+    "preco": 8.75
+  },
+  {
+    "id": 46,
+    "nome": "Produto 46",
+    "preco": 9.5
+  },
+  {
+    "id": 47,
+    "nome": "Produto 47",
+    "preco": 10.25
+  },
+  {
+    "id": 48,
+    "nome": "Produto 48",
+    "preco": 11.0
+  },
+  {
+    "id": 49,
+    "nome": "Produto 49",
+    "preco": 11.75
+  },
+  {
+    "id": 50,
+    "nome": "Produto 50",
+    "preco": 12.5
+  }
+]

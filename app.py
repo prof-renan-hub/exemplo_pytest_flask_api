@@ -1,7 +1,12 @@
+import json
+import os
+
 from flask import Flask, jsonify, request, abort
 from flask_sqlalchemy import SQLAlchemy
 from extencoes.ext import db
 from model.usuario_model import Usuario
+
+from flask import Flask, jsonify, request
 
 app = Flask(__name__)
 
@@ -57,6 +62,13 @@ def soma():
     a = dados.get("a")
     b = dados.get("b")
     return jsonify({"resultado": a + b})
+
+
+@app.route('/produtos', methods=['GET'])
+def get_produtos():
+    with open('./produtos/produtos.json', 'r', encoding='utf-8') as arquivo:
+        produtos = json.load(arquivo)
+    return produtos, 200
 
 
 if __name__ == '__main__':
